@@ -1,0 +1,26 @@
+{
+  
+  "students" : {
+    "-LC2iv7Dm_GAatmdhreE" : {
+      "student_name" : "Shamo",
+      "student_id" : "",
+      "student_tel" : "123456"
+    },
+    "-LC2ixA6W5nElGORC8dm" : {
+      "student_name" : "Erik",
+      "student_id" : "",
+      "student_tel" : "12312412"
+    },
+    "-LC2izwwzN2pYHuLIIZH" : {
+      "student_name" : "Adriana",
+      "student_id" : "",
+      "student_tel" : "457567567"
+    },
+    "-LC2jq7wNtAqk40pBrmK" : {
+      "student_name" : "David",
+      "student_id" : "-LC2jq7vapxd7tNXAFwv",
+      "student_tel" : "0999999900000"
+    }
+  }
+  
+}
