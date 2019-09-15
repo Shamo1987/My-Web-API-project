@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "58531326111",
+    "firebase_url": "https://stidatabase-17704.firebaseio.com",
+    "project_id": "stidatabase-17704",
+    "storage_bucket": "stidatabase-17704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58531326111:android:1bbe29d2ebcaf1faba5aaa",
+        "android_client_info": {
+          "package_name": "com.info.studenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58531326111-huj5mjqfk4fr3eof21f27peiakjh1v1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.info.studenter",
+            "certificate_hash": "38449c0f60086805ec18cba488aa53afc196c829"
+          }
+        },
+        {
+          "client_id": "58531326111-qvvkhm6mnn59da8hk1fl7sb71henqjft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYscXVDI-Q6IK4SEHiwkk02gu3Tas5efw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58531326111-qvvkhm6mnn59da8hk1fl7sb71henqjft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
